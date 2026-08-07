@@ -1,4 +1,4 @@
-# Public holidays API
+# Anime season API
 
 Tiny API for checking what's the current anime season, and how far we're currently into it.  
 This can help you estimate what's the latest episode number of a show that recently started airing.
